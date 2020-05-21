@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1493919986 source:/home/ali/unixstuff/blackSea/main.cpp
+	<iostream>
+	<stdio.h>
+	<unistd.h>
+	<errno.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<pthread.h>
+
